@@ -1,3 +1,20 @@
+--*****************************************************************************
+-- Company: Faculty of Engineering Zagazig University
+-- Engineer: Ahmed Abdelazeem
+-- 
+-- Create Date:    03:15:35 07/20/2020 
+-- Design Name: 
+-- Module Name:   memory
+-- Project Name: Design a simple microprocessor in VHDL
+-- Target Devices: 
+-- Tool versions: 
+-- Description: 
+--
+-- Dependencies: 
+--
+-- Revision: 
+-- Revision 0.01 - File Created
+-- Additional Comments: 
 library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.numeric_std.all;
