@@ -1,9 +1,20 @@
 --*****************************************************************************
+-- Company: Faculty of Engineering Zagazig University
+-- Engineer: Ahmed Abdelazeem
+-- 
+-- Create Date:    03:15:35 07/20/2020 
+-- Design Name: 
+-- Module Name:    cpu_top 
+-- Project Name: Design a simple microprocessor in VHDL
+-- Target Devices: 
+-- Tool versions: 
+-- Description: 
 --
---  Title   : Top-level design for Simple CPU + memory + display
+-- Dependencies: 
 --
---  File    : cpu.vhd
---
+-- Revision: 
+-- Revision 0.01 - File Created
+-- Additional Comments: 
 --*****************************************************************************
 
 library ieee;
