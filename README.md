@@ -1,0 +1,2 @@
+# Design-a-simple-microprocessor-in-VHDL
+The object of this assignment is to develop and implement a microprocessor with a simple instruction set.  As a starting point, you are provided with a partial VHDL design for the CPU which you will need to expand with additional registers and instructions. The initial goal will be to to complete a "base" version of the processor an instruction set that is sufficient to execute the machine code below. If time permits, you may extend the instruction set and test it with more complex programs.
